@@ -1,5 +1,0 @@
-@media (min-width: 768px) { /*가로 크기가 768px 이상일 때, body의 좌우 패딩값을 10vw로 지정*/
-    body {
-        padding: 0 10vw;
-    }
-}
